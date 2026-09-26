@@ -1,5 +1,14 @@
 [
   {
+    "id": "muhz7hslwt2w",
+    "timestamp": "2026-09-26T05:55:41.397Z",
+    "type": "error",
+    "errorId": "ERR-MUHZ7H8V-GTW6",
+    "route": "GET /api/chat/users",
+    "message": "is at a4d058c8b77bdbaf7aadd7b99f89219f9eb96a31 but expected 6058fe204be0edacf84ccd39bf0b5ba65ffe517c - https://docs.github.com/rest/repos/contents#create-or-update-file-contents",
+    "userId": "c0f7bb37db53"
+  },
+  {
     "id": "muhz6i4s3jl3",
     "timestamp": "2026-09-26T05:54:55.180Z",
     "type": "error",
