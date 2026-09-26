@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "muhyozpebvy6",
+    "timestamp": "2026-09-26T05:41:18.146Z",
+    "type": "account",
+    "action": "create_owner",
+    "username": "alex",
+    "role": "OWNER",
+    "by": "2098147421"
+  }
+]
