@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "c0f7bb37db53",
+    "username": "alex",
+    "passwordHash": "$2a$10$E71zeNpL2HJXDDab/JUJm.HfkUcytU57GZ4x2jkPHJ9.9m7SQCZw6",
+    "role": "OWNER",
+    "status": "active",
+    "telegramId": "2098147421",
+    "expiredAt": null,
+    "createdAt": "2026-09-26T05:41:15.580Z",
+    "createdBy": "2098147421",
+    "createdByName": "𝐀̴͡𝐥͢𝐞̷͜𝐱̶͡ ¿? ʳᵛˣ",
+    "source": "telegram-owner"
+  }
+]
