@@ -1,5 +1,14 @@
 [
   {
+    "id": "mujk4p6ux9r2",
+    "timestamp": "2026-09-27T08:29:09.126Z",
+    "type": "account",
+    "action": "create_web",
+    "username": "Cobain",
+    "role": "PREMIUM",
+    "userId": "c0f7bb37db53"
+  },
+  {
     "id": "mujg6z3d5r7u",
     "timestamp": "2026-09-27T06:38:56.809Z",
     "type": "error",
