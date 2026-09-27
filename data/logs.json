@@ -1,5 +1,13 @@
 [
   {
+    "id": "mujkd52imkrz",
+    "timestamp": "2026-09-27T08:35:42.954Z",
+    "type": "auth",
+    "action": "login",
+    "username": "Cobain",
+    "userId": "759a8aedb570"
+  },
+  {
     "id": "mujkcn1q3lsf",
     "timestamp": "2026-09-27T08:35:19.598Z",
     "type": "error",
