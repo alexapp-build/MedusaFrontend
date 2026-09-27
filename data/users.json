@@ -11,5 +11,18 @@
     "createdBy": "2098147421",
     "createdByName": "𝐀̴͡𝐥͢𝐞̷͜𝐱̶͡ ¿? ʳᵛˣ",
     "source": "telegram-owner"
+  },
+  {
+    "id": "9d24a1e7a0c6",
+    "username": "Rezza",
+    "passwordHash": "$2a$10$fWI5tkGNtFVmFXPN7r2pwepjMArxBBlT.ogR.L/TFhWz70ygcuEIq",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": "2026-10-04T03:01:29.598Z",
+    "createdAt": "2026-09-27T03:01:29.598Z",
+    "createdBy": "c0f7bb37db53",
+    "createdByUsername": "alex",
+    "source": "web"
   }
 ]
