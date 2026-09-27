@@ -1,5 +1,14 @@
 [
   {
+    "id": "muj8dc4xqede",
+    "timestamp": "2026-09-27T02:59:56.721Z",
+    "type": "account",
+    "action": "delete_web",
+    "username": "free_31070d",
+    "role": "PREMIUM",
+    "userId": "c0f7bb37db53"
+  },
+  {
     "id": "muj8d6sxznmu",
     "timestamp": "2026-09-27T02:59:49.810Z",
     "type": "account",
