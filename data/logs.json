@@ -1,5 +1,14 @@
 [
   {
+    "id": "muje7x6yg0hc",
+    "timestamp": "2026-09-27T05:43:41.770Z",
+    "type": "error",
+    "errorId": "ERR-MUJE7WX5-X4PA",
+    "route": "GET /api/auth/me",
+    "message": "getaddrinfo EAI_AGAIN api.github.com",
+    "userId": null
+  },
+  {
     "id": "muj8p1cxb3yz",
     "timestamp": "2026-09-27T03:09:02.625Z",
     "type": "xmessage",
