@@ -24,5 +24,18 @@
     "createdBy": "c0f7bb37db53",
     "createdByUsername": "alex",
     "source": "web"
+  },
+  {
+    "id": "759a8aedb570",
+    "username": "Cobain",
+    "passwordHash": "$2a$10$eHxzZHHrTmqsFO/z3YSTkut4QXnznS34ZPvUxdUkGaKU0RDSjiDXu",
+    "role": "PREMIUM",
+    "status": "active",
+    "telegramId": null,
+    "expiredAt": "2026-09-29T08:29:07.436Z",
+    "createdAt": "2026-09-27T08:29:07.436Z",
+    "createdBy": "c0f7bb37db53",
+    "createdByUsername": "alex",
+    "source": "web"
   }
 ]
