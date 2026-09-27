@@ -1,5 +1,17 @@
 [
   {
+    "id": "muj8ykg4fktac8",
+    "userId": "c0f7bb37db53",
+    "title": "New private message",
+    "message": "Rezza: anj",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-09-27T03:16:27.268Z"
+  },
+  {
     "id": "muj8hn9i2f7zus",
     "userId": "9d24a1e7a0c6",
     "title": "New private message",
