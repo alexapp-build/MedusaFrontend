@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "muj8hb12negn37",
+    "userId": "9d24a1e7a0c6",
+    "title": "New private message",
+    "message": "alex: woi bego",
+    "type": "chat",
+    "source": "chat",
+    "link": "/chat.html",
+    "silent": true,
+    "read": false,
+    "createdAt": "2026-09-27T03:03:01.910Z"
+  }
+]
