@@ -1,5 +1,14 @@
 [
   {
+    "id": "mujg4nfgfk1p",
+    "timestamp": "2026-09-27T06:37:08.380Z",
+    "type": "error",
+    "errorId": "ERR-MUJG4M5J-2QDC",
+    "route": "POST /api/xmessage/execute",
+    "message": "not-authorized",
+    "userId": "c0f7bb37db53"
+  },
+  {
     "id": "mujg4mdwpdwz",
     "timestamp": "2026-09-27T06:37:07.028Z",
     "type": "xmessage",
