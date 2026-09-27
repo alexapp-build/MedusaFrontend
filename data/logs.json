@@ -1,5 +1,15 @@
 [
   {
+    "id": "mujg4mdwpdwz",
+    "timestamp": "2026-09-27T06:37:07.028Z",
+    "type": "xmessage",
+    "action": "Group Ban",
+    "target": "https://chat.whatsapp.com/ItdCemYAJrM16M2FqeP5Yw?s=cl&p=a&mlu=4&iam=0",
+    "userId": "c0f7bb37db53",
+    "success": false,
+    "error": "not-authorized"
+  },
+  {
     "id": "muje7x6yg0hc",
     "timestamp": "2026-09-27T05:43:41.770Z",
     "type": "error",
