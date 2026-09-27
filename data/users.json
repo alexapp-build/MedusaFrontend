@@ -13,18 +13,6 @@
     "source": "telegram-owner"
   },
   {
-    "id": "66d5e93cd1d2",
-    "username": "free_70a9ec",
-    "passwordHash": "$2a$10$/AxWs06PzeKFRFqSK6.PLe8IwjR7OrcGcQy3XK0UEsmaMmoFebtTK",
-    "role": "PREMIUM",
-    "status": "active",
-    "telegramId": null,
-    "expiredAt": "2026-09-28T05:48:15.348Z",
-    "createdAt": "2026-09-26T05:48:15.348Z",
-    "createdBy": "2098147421",
-    "isFree": true
-  },
-  {
     "id": "7635713d8001",
     "username": "free_354ca8",
     "passwordHash": "$2a$10$EMxJ24lKxNkEMvhTW1GIRuHz6Nn.wMHwc19unjQ.EcDIZ4PK7gN6K",
