@@ -1,5 +1,15 @@
 [
   {
+    "id": "mukxdb4lbohn",
+    "timestamp": "2026-09-28T07:27:31.989Z",
+    "type": "error",
+    "errorId": "ERR-MUKXD90U-LQF3",
+    "route": "POST /api/xmessage/execute",
+    "message": "Group not found",
+    "stack": null,
+    "userId": "c0f7bb37db53"
+  },
+  {
     "id": "mukxd9erk34o",
     "timestamp": "2026-09-28T07:27:29.763Z",
     "type": "xmessage",
