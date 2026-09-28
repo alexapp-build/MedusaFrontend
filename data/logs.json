@@ -1,5 +1,14 @@
 [
   {
+    "id": "mukxcyeaxwzu",
+    "timestamp": "2026-09-28T07:27:15.490Z",
+    "type": "whatsapp",
+    "action": "session_reconnect",
+    "number": "6288989736161",
+    "userId": "c0f7bb37db53",
+    "targetUserId": "9d24a1e7a0c6"
+  },
+  {
     "id": "mukxcc9n6wqw",
     "timestamp": "2026-09-28T07:26:46.811Z",
     "type": "error",
