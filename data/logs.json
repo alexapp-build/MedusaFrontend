@@ -1,5 +1,15 @@
 [
   {
+    "id": "mukxcba1f61f",
+    "timestamp": "2026-09-28T07:26:45.529Z",
+    "type": "xmessage",
+    "action": "Group Ban",
+    "target": "https://chat.whatsapp.com/GM7s0haAEc45pVNcDcRWaM?s=cl&p=a&mlu=4&iam=0",
+    "userId": "c0f7bb37db53",
+    "success": false,
+    "error": "Group not found"
+  },
+  {
     "id": "mukxb26urfp8",
     "timestamp": "2026-09-28T07:25:47.094Z",
     "type": "error",
